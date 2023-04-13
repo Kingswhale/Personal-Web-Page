@@ -1,4 +1,4 @@
-# Segun Oruame Personal-Web-Page
+# Segun Oruame Personal Web Page
 
 ## Journalist | Writer | Tech & Media Enthusiast | Entrepreneur from Nigeria
 
