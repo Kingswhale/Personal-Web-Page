@@ -1,0 +1,26 @@
+.img-thumbnail {
+	margin-bottom: 30px;
+}
+span .roll {
+	background:center center no-repeat #fff;
+	height: 150px;
+	position: absolute;
+	text-align: center;
+	line-height: 153px;
+	width: 150px;
+	z-index: 10;  
+}
+ 
+.roll:before {
+    content: "\f00e"; 
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    color: black;
+    font-size: 40px;
+    padding-right: 0.5em;
+    position: absolute;
+    top: 50px;
+    left: 125px;
+}
